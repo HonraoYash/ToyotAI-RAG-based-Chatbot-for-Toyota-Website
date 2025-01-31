@@ -1,0 +1,11 @@
+Model Information:
+* title:	toyota-corolla-e170-2017
+* source:	https://sketchfab.com/3d-models/toyota-corolla-e170-2017-d87af59849814c5cb35a0c233f2c2f19
+* author:	Blender Boy (https://sketchfab.com/Blender_Boy1)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "toyota-corolla-e170-2017" (https://sketchfab.com/3d-models/toyota-corolla-e170-2017-d87af59849814c5cb35a0c233f2c2f19) by Blender Boy (https://sketchfab.com/Blender_Boy1) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
