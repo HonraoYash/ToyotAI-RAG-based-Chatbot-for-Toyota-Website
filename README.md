@@ -42,6 +42,8 @@ TAMU-Hack for providing this opportunity.
 
 Contact
 Yash Honrao - yashhonrao2024@gmail.com
+
 Project Link: https://github.com/HonraoYash/ToyotAI-RAG-based-Chatbot-for-Toyota-Website.git
+
 Devpost submission link - https://devpost.com/software/toyotachatbot
 
