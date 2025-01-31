@@ -8,9 +8,13 @@ Toyota ChatBot is an AI-powered conversational assistant designed to enhance the
 Features
 
 24/7 Availability: Offers round-the-clock support for Toyota customers
+
 Natural Language Processing: Understands and responds to user queries in a conversational manner
+
 Vehicle-Specific Information: Provides tailored information based on the user's Toyota model
+
 Maintenance Reminders: Sends timely notifications for vehicle service and maintenance
+
 Appointment Scheduling: Assists users in booking service appointments with local Toyota dealerships
 
 Technology Stack
@@ -20,9 +24,9 @@ Language: Python
 
 Installation
 bash
-git clone https://github.com/HonraoYash/TAMU-Hack.git
+git clone https://github.com/HonraoYash/ToyotAI-RAG-based-Chatbot-for-Toyota-Website.git
 
-cd TAMU-Hack
+cd ToyotAI-RAG-based-Chatbot-for-Toyota-Website.git
 
 Usage
 Run -> streamlit run app.py
@@ -38,6 +42,6 @@ TAMU-Hack for providing this opportunity.
 
 Contact
 Yash Honrao - yashhonrao2024@gmail.com
-Project Link: https://github.com/HonraoYash/TAMU-Hack.git
+Project Link: https://github.com/HonraoYash/ToyotAI-RAG-based-Chatbot-for-Toyota-Website.git
 Devpost submission link - https://devpost.com/software/toyotachatbot
 
